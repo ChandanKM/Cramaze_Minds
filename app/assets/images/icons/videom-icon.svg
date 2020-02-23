@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="63" height="63">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f0bc5e } 
+		.shp1 { fill: #000000 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="shp0" d="M26.88 11.57L25.5 18L20.71 18L21.6 13.85L26.88 11.57Z" />
+		<path id="Layer" class="shp0" d="M32.15 9.29L37.43 7L35.75 14.84L30.49 17.06L32.15 9.29Z" />
+		<path id="Layer" class="shp0" d="M47.98 2.44L46.27 10.41L41.01 12.63L42.7 4.72L47.98 2.44Z" />
+		<path id="Layer" class="shp0" d="M26 24L20 24L14 18L20 18L26 24Z" />
+		<path id="Layer" class="shp0" d="M28.25 18L32 18L38 24L32 24L26 18L28.25 18Z" />
+		<path id="Layer" class="shp0" d="M50 24L44 24L38 18L44 18L50 24Z" />
+		<g id="Layer">
+			<path id="Layer" class="shp1" d="M7 57L9 57L9 59L7 59L7 57Z" />
+			<path id="Layer" class="shp1" d="M11 57L13 57L13 59L11 59L11 57Z" />
+			<path id="Layer" class="shp1" d="M15 57L17 57L17 59L15 59L15 57Z" />
+		</g>
+		<path id="Layer" fill-rule="evenodd" class="shp1" d="M63 53L63 58C63 60.76 60.76 63 58 63L6 63C3.24 63 1 60.76 1 58L1 53L3 53L3 18C3 15.24 5.24 13 8 13L21.04 13L49.47 0.71L53.37 8.51L42.7 13L56 13C58.76 13 61 15.24 61 18L61 53L63 53ZM37.95 15L33.2 17L55 17C56.1 17 57 17.9 57 19L57 53L59 53L59 18C59 16.35 57.65 15 56 15L37.95 15ZM55 53L55 19L53 19L53 45L42 45L42 43L51 43L51 25L13 25L13 43L22 43L22 45L11 45L11 19L9 19L9 53L55 53ZM61 55L43 55L43 56C43 57.65 41.65 59 40 59L24 59C22.35 59 21 57.65 21 56L21 55L3 55L3 58C3 59.65 4.35 61 6 61L58 61C59.65 61 61 59.65 61 58L61 55ZM13 19L13 23L51 23L51 19L13 19ZM48.53 3.29L16.83 17L28.05 17L50.63 7.49L48.53 3.29ZM5 53L7 53L7 19C7 17.9 7.9 17 9 17L11.79 17L16.42 15L8 15C6.35 15 5 16.35 5 18L5 53ZM23 55L23 56C23 56.55 23.45 57 24 57L40 57C40.55 57 41 56.55 41 56L41 55L23 55Z" />
+		<path id="Layer" class="shp0" d="M32 51C25.38 51 20 45.62 20 39C20 32.38 25.38 27 32 27C38.62 27 44 32.38 44 39C44 45.62 38.62 51 32 51Z" />
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="shp1" d="M28 44.62L28 33.38L39.24 39L28 44.62ZM30 36.62L30 41.38L34.76 39L30 36.62Z" />
+		</g>
+	</g>
+</svg>

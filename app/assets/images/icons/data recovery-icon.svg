@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="63" height="63">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f0bc5e } 
+		.shp1 { fill: #000000 } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M2 6L16 6L16 18L2 18L2 6Z" />
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M18 46L6 46C4.89 46 4 46.9 4 48L4 58L20 58L20 48C20 46.9 19.11 46 18 46Z" />
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M62 12L44 12L44 4C44 2.9 44.9 2 46 2L60 2C61.1 2 62 2.9 62 4L62 12Z" />
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M51 49L59 49L59 59L51 59L51 49Z" />
+		</g>
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="shp1" d="M1 24L1 4C1 2.35 2.35 1 4 1L14 1C15.65 1 17 2.35 17 4L17 24C17 25.65 15.65 27 14 27L10 27L10 30L17.69 30L17.69 32L8 32L8 27L4 27C2.35 27 1 25.65 1 24ZM15 24L15 19L3 19L3 24C3 24.55 3.45 25 4 25L14 25C14.55 25 15 24.55 15 24ZM15 17L15 7L3 7L3 17L15 17ZM3 4L3 5L15 5L15 4C15 3.45 14.55 3 14 3L4 3C3.45 3 3 3.45 3 4Z" />
+			<path id="Layer" class="shp1" d="M7 21L11 21L11 23L7 23L7 21Z" />
+			<path id="Layer" fill-rule="evenodd" class="shp1" d="M63 4L63 14C63 15.65 61.65 17 60 17L57 17L57 19L59 19L59 21L54 21L54 33L47.47 33L47.47 31L52 31L52 21L47 21L47 19L49 19L49 17L46 17C44.35 17 43 15.65 43 14L43 4C43 2.35 44.35 1 46 1L60 1C61.65 1 63 2.35 63 4ZM45 4L45 11L61 11L61 4C61 3.45 60.55 3 60 3L46 3C45.45 3 45 3.45 45 4ZM55 17L51 17L51 19L55 19L55 17ZM61 14L61 13L45 13L45 14C45 14.55 45.45 15 46 15L60 15C60.55 15 61 14.55 61 14Z" />
+			<path id="Layer" fill-rule="evenodd" class="shp1" d="M21 57L23 57L23 60C23 61.65 21.65 63 20 63L4 63C2.35 63 1 61.65 1 60L1 57L3 57L3 48C3 46.35 4.35 45 6 45L10 45L10 34L15 34L15 36L12 36L12 45L18 45C19.65 45 21 46.35 21 48L21 57ZM5 57L19 57L19 48C19 47.45 18.55 47 18 47L6 47C5.45 47 5 47.45 5 48L5 57ZM21 59L3 59L3 60C3 60.55 3.45 61 4 61L20 61C20.55 61 21 60.55 21 60L21 59Z" />
+			<path id="Layer" class="shp1" d="M51 49L53 49L53 51L51 51L51 49Z" />
+			<path id="Layer" class="shp1" d="M57 57L59 57L59 59L57 59L57 57Z" />
+			<path id="Layer" class="shp1" d="M55 49L59 49L59 51L55 51L55 49Z" />
+			<path id="Layer" class="shp1" d="M51 57L55 57L55 59L51 59L51 57Z" />
+			<path id="Layer" fill-rule="evenodd" class="shp1" d="M56 45L63 45L63 63L47 63L47 45L54 45L54 37L49 37L49 35L56 35L56 45ZM61 61L61 55L49 55L49 61L61 61ZM61 47L49 47L49 53L61 53L61 47Z" />
+		</g>
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" class="shp0" d="M43 43L21 43C17.14 43 14 39.86 14 36C14 32.68 16.33 29.84 19.52 29.16C20.69 26.09 23.68 24 27 24C28.13 24 29.24 24.24 30.26 24.7C31.72 22.42 34.26 21 37 21C41.41 21 45 24.59 45 29C45 29.1 45 29.2 44.99 29.3C47.91 30.17 50 32.9 50 36C50 39.86 46.86 43 43 43Z" />
+			</g>
+		</g>
+	</g>
+</svg>
