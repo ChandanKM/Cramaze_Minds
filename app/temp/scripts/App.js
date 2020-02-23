@@ -70,7 +70,7 @@
 
 	var mobileMenu = new _MobileMenu2.default();
 	new _RevealOnScroll2.default((0, _jquery2.default)(".feature-item"), "85%");
-	new _RevealOnScroll2.default((0, _jquery2.default)(".testimonial"), "60%");
+	// new RevealOnScroll($(".testimonial"), "60%"); 
 	var stickyHeader = new _StickyHeader2.default();
 	var modal = new _Modal2.default();
 
@@ -10802,7 +10802,7 @@
 	    this.lazyImages = (0, _jquery2.default)(".lazyload");
 	    this.siteHeader = (0, _jquery2.default)(".site-header");
 	    this.headerTriggerElement = (0, _jquery2.default)(".large-hero__title");
-	    this.createHeaderWaypoint();
+	    //this.createHeaderWaypoint();
 	    this.pageSections = (0, _jquery2.default)(".page-section");
 	    this.headerLinks = (0, _jquery2.default)(".primary-nav a");
 	    this.createPageSectionWaypoints();
